@@ -1,0 +1,12 @@
+.bg-info{
+    background-color:blueviolet !important;
+}
+
+.nav-link.active{background-color:blueviolet !important;
+}
+.btn-primary{
+    background-color:blueviolet !important;
+}
+.dropdown-item:active{
+    background-color:blueviolet !important;
+}
