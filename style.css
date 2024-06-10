@@ -1,12 +1,12 @@
 .bg-info{
-    background-color:blueviolet !important;
+    background-color:rgb(43, 107, 226) !important;
 }
 
-.nav-link.active{background-color:blueviolet !important;
+.nav-link.active{background-color:rgb(43, 107, 226) !important;
 }
 .btn-primary{
-    background-color:blueviolet !important;
+    background-color:rgb(43, 107, 226)  !important;
 }
 .dropdown-item:active{
-    background-color:blueviolet !important;
+    background-color:rgb(43, 107, 226) !important;
 }
